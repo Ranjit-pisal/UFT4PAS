@@ -1,7 +1,7 @@
 ﻿ @@ hightlight id_;_Browser("Advantage Shopping").Page("Advantage Shopping").Link("Link")_;_script infofile_;_ZIP::ssf39.xml_;_
 Browser("Advantage Shopping").Page("Advantage Shopping").Link("SpeakersCategoryTxt").Click @@ hightlight id_;_Browser("Advantage Shopping").Page("Advantage Shopping").Link("SpeakersCategoryTxt")_;_script infofile_;_ZIP::ssf40.xml_;_
 Browser("Advantage Shopping").Page("Advantage Shopping").WebElement("$169.99").Click @@ hightlight id_;_Browser("Advantage Shopping").Page("Advantage Shopping").WebElement("$169.99")_;_script infofile_;_ZIP::ssf41.xml_;_
-Browser("Advantage Shopping").Page("Advantage Shopping").WebEdit("quantity").Set "3" @@ hightlight id_;_Browser("Advantage Shopping").Page("Advantage Shopping").WebEdit("quantity")_;_script infofile_;_ZIP::ssf42.xml_;_
+Browser("Advantage Shopping").Page("Advantage Shopping").WebEdit("quantity").Set DataTable("HowMany", dtGlobalSheet) @@ hightlight id_;_Browser("Advantage Shopping").Page("Advantage Shopping").WebEdit("quantity")_;_script infofile_;_ZIP::ssf42.xml_;_
 Browser("Advantage Shopping").Page("Advantage Shopping").WebButton("save_to_cart").Click @@ hightlight id_;_Browser("Advantage Shopping").Page("Advantage Shopping").WebButton("save to cart")_;_script infofile_;_ZIP::ssf43.xml_;_
 Browser("Advantage Shopping").Page("Advantage Shopping").Link("ShoppingCart").Click @@ hightlight id_;_Browser("Advantage Shopping").Page("Advantage Shopping").Link("ShoppingCart")_;_script infofile_;_ZIP::ssf44.xml_;_
 Browser("Advantage Shopping").Page("Advantage Shopping").WebElement("REMOVE").Click @@ hightlight id_;_Browser("Advantage Shopping").Page("Advantage Shopping").WebElement("REMOVE")_;_script infofile_;_ZIP::ssf45.xml_;_
